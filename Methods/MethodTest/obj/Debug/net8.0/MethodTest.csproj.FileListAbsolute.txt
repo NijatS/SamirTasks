@@ -1,0 +1,15 @@
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\bin\Debug\net8.0\MethodTest.exe
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\bin\Debug\net8.0\MethodTest.deps.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\bin\Debug\net8.0\MethodTest.runtimeconfig.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\bin\Debug\net8.0\MethodTest.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\bin\Debug\net8.0\MethodTest.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\obj\Debug\net8.0\MethodTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\obj\Debug\net8.0\MethodTest.AssemblyInfoInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\obj\Debug\net8.0\MethodTest.AssemblyInfo.cs
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\obj\Debug\net8.0\MethodTest.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\obj\Debug\net8.0\MethodTest.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\obj\Debug\net8.0\MethodTest.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\obj\Debug\net8.0\refint\MethodTest.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\obj\Debug\net8.0\MethodTest.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\obj\Debug\net8.0\MethodTest.genruntimeconfig.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\Methods\MethodTest\obj\Debug\net8.0\ref\MethodTest.dll

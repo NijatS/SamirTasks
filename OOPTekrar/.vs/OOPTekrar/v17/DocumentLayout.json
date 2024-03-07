@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Samir\\OOPTekrar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17EE1F33-EFF2-41B4-B599-6E262B1C1A7F}|Methods\\Methods.csproj|c:\\users\\nijat\\onedrive\\desktop\\samir\\ooptekrar\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EE1F33-EFF2-41B4-B599-6E262B1C1A7F}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EE1F33-EFF2-41B4-B599-6E262B1C1A7F}|Methods\\Methods.csproj|c:\\users\\nijat\\onedrive\\desktop\\samir\\ooptekrar\\methods\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EE1F33-EFF2-41B4-B599-6E262B1C1A7F}|Methods\\Methods.csproj|solutionrelative:methods\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Samir\\OOPTekrar\\Methods\\Person.cs",
+              "RelativeDocumentMoniker": "Methods\\Person.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Samir\\OOPTekrar\\Methods\\Person.cs",
+              "RelativeToolTip": "Methods\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:48:00.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Samir\\OOPTekrar\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Samir\\OOPTekrar\\Methods\\Program.cs",
+              "RelativeToolTip": "Methods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:47:35.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

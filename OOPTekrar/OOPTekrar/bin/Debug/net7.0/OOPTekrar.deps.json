@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OOPTekrar/1.0.0": {
+        "runtime": {
+          "OOPTekrar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPTekrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

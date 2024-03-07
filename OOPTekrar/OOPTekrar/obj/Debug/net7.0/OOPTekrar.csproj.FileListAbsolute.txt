@@ -1,0 +1,15 @@
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\bin\Debug\net7.0\OOPTekrar.exe
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\bin\Debug\net7.0\OOPTekrar.deps.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\bin\Debug\net7.0\OOPTekrar.runtimeconfig.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\bin\Debug\net7.0\OOPTekrar.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\bin\Debug\net7.0\OOPTekrar.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\obj\Debug\net7.0\OOPTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\obj\Debug\net7.0\OOPTekrar.AssemblyInfoInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\obj\Debug\net7.0\OOPTekrar.AssemblyInfo.cs
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\obj\Debug\net7.0\OOPTekrar.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\obj\Debug\net7.0\OOPTekrar.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\obj\Debug\net7.0\OOPTekrar.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\obj\Debug\net7.0\refint\OOPTekrar.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\obj\Debug\net7.0\OOPTekrar.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\obj\Debug\net7.0\OOPTekrar.genruntimeconfig.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPTekrar\OOPTekrar\obj\Debug\net7.0\ref\OOPTekrar.dll

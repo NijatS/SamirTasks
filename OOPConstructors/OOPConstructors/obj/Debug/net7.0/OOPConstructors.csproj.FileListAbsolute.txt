@@ -1,0 +1,15 @@
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\bin\Debug\net7.0\OOPConstructors.exe
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\bin\Debug\net7.0\OOPConstructors.deps.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\bin\Debug\net7.0\OOPConstructors.runtimeconfig.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\bin\Debug\net7.0\OOPConstructors.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\bin\Debug\net7.0\OOPConstructors.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\obj\Debug\net7.0\OOPConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\obj\Debug\net7.0\OOPConstructors.AssemblyInfoInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\obj\Debug\net7.0\OOPConstructors.AssemblyInfo.cs
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\obj\Debug\net7.0\OOPConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\obj\Debug\net7.0\OOPConstructors.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\obj\Debug\net7.0\OOPConstructors.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\obj\Debug\net7.0\refint\OOPConstructors.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\obj\Debug\net7.0\OOPConstructors.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\obj\Debug\net7.0\OOPConstructors.genruntimeconfig.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\OOPConstructors\OOPConstructors\obj\Debug\net7.0\ref\OOPConstructors.dll

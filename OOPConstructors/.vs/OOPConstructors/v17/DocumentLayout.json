@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Samir\\OOPConstructors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11888B17-5AF7-411C-9A33-036B79A3149F}|OOPConstructors\\OOPConstructors.csproj|c:\\users\\nijat\\onedrive\\desktop\\samir\\oopconstructors\\oopconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11888B17-5AF7-411C-9A33-036B79A3149F}|OOPConstructors\\OOPConstructors.csproj|solutionrelative:oopconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11888B17-5AF7-411C-9A33-036B79A3149F}|OOPConstructors\\OOPConstructors.csproj|c:\\users\\nijat\\onedrive\\desktop\\samir\\oopconstructors\\oopconstructors\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11888B17-5AF7-411C-9A33-036B79A3149F}|OOPConstructors\\OOPConstructors.csproj|solutionrelative:oopconstructors\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Samir\\OOPConstructors\\OOPConstructors\\Hospital.cs",
+              "RelativeDocumentMoniker": "OOPConstructors\\Hospital.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Samir\\OOPConstructors\\OOPConstructors\\Hospital.cs",
+              "RelativeToolTip": "OOPConstructors\\Hospital.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:58:46.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Samir\\OOPConstructors\\OOPConstructors\\Program.cs",
+              "RelativeDocumentMoniker": "OOPConstructors\\Program.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\Samir\\OOPConstructors\\OOPConstructors\\Program.cs",
+              "RelativeToolTip": "OOPConstructors\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:57:16.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\Inheritance\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll

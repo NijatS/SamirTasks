@@ -1,0 +1,15 @@
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\bin\Debug\net7.0\WhileDoWhile.exe
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\bin\Debug\net7.0\WhileDoWhile.deps.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\bin\Debug\net7.0\WhileDoWhile.runtimeconfig.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\bin\Debug\net7.0\WhileDoWhile.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\bin\Debug\net7.0\WhileDoWhile.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.AssemblyInfo.cs
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\obj\Debug\net7.0\refint\WhileDoWhile.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.genruntimeconfig.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\WhileDoWhile\WhileDoWhile\obj\Debug\net7.0\ref\WhileDoWhile.dll

@@ -1,0 +1,15 @@
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\bin\Debug\net7.0\ArrayReview.exe
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\bin\Debug\net7.0\ArrayReview.deps.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\bin\Debug\net7.0\ArrayReview.runtimeconfig.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\bin\Debug\net7.0\ArrayReview.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\bin\Debug\net7.0\ArrayReview.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\obj\Debug\net7.0\ArrayReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\obj\Debug\net7.0\ArrayReview.AssemblyInfoInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\obj\Debug\net7.0\ArrayReview.AssemblyInfo.cs
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\obj\Debug\net7.0\ArrayReview.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\obj\Debug\net7.0\ArrayReview.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\obj\Debug\net7.0\ArrayReview.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\obj\Debug\net7.0\refint\ArrayReview.dll
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\obj\Debug\net7.0\ArrayReview.pdb
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\obj\Debug\net7.0\ArrayReview.genruntimeconfig.cache
+C:\Users\Nijat\OneDrive\Desktop\Samir\ArrayReview\ArrayReview\obj\Debug\net7.0\ref\ArrayReview.dll

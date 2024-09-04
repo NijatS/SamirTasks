@@ -1,0 +1,15 @@
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/bin/Debug/net8.0/Constructors
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/bin/Debug/net8.0/Constructors.deps.json
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/bin/Debug/net8.0/Constructors.runtimeconfig.json
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/bin/Debug/net8.0/Constructors.dll
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/bin/Debug/net8.0/Constructors.pdb
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/obj/Debug/net8.0/Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/obj/Debug/net8.0/Constructors.AssemblyInfoInputs.cache
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/obj/Debug/net8.0/Constructors.AssemblyInfo.cs
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/obj/Debug/net8.0/Constructors.csproj.CoreCompileInputs.cache
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/obj/Debug/net8.0/Constructors.sourcelink.json
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/obj/Debug/net8.0/Constructors.dll
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/obj/Debug/net8.0/refint/Constructors.dll
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/obj/Debug/net8.0/Constructors.pdb
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/obj/Debug/net8.0/Constructors.genruntimeconfig.cache
+/Users/nicat/Desktop/SamirTasks/Constructors/Constructors/obj/Debug/net8.0/ref/Constructors.dll

@@ -1,0 +1,15 @@
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/bin/Debug/net8.0/OOPPrinciples1
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/bin/Debug/net8.0/OOPPrinciples1.deps.json
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/bin/Debug/net8.0/OOPPrinciples1.runtimeconfig.json
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/bin/Debug/net8.0/OOPPrinciples1.dll
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/bin/Debug/net8.0/OOPPrinciples1.pdb
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/obj/Debug/net8.0/OOPPrinciples1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/obj/Debug/net8.0/OOPPrinciples1.AssemblyInfoInputs.cache
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/obj/Debug/net8.0/OOPPrinciples1.AssemblyInfo.cs
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/obj/Debug/net8.0/OOPPrinciples1.csproj.CoreCompileInputs.cache
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/obj/Debug/net8.0/OOPPrinciples1.sourcelink.json
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/obj/Debug/net8.0/OOPPrinciples1.dll
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/obj/Debug/net8.0/refint/OOPPrinciples1.dll
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/obj/Debug/net8.0/OOPPrinciples1.pdb
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/obj/Debug/net8.0/OOPPrinciples1.genruntimeconfig.cache
+/Users/nicat/Desktop/SamirTasks/OOPPrinciples1/OOPPrinciples1/obj/Debug/net8.0/ref/OOPPrinciples1.dll

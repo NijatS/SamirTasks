@@ -1,0 +1,15 @@
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/bin/Debug/net8.0/Abstractions
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/bin/Debug/net8.0/Abstractions.deps.json
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/bin/Debug/net8.0/Abstractions.runtimeconfig.json
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/bin/Debug/net8.0/Abstractions.dll
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/bin/Debug/net8.0/Abstractions.pdb
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/obj/Debug/net8.0/Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/obj/Debug/net8.0/Abstractions.AssemblyInfoInputs.cache
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/obj/Debug/net8.0/Abstractions.AssemblyInfo.cs
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/obj/Debug/net8.0/Abstractions.csproj.CoreCompileInputs.cache
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/obj/Debug/net8.0/Abstractions.sourcelink.json
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/obj/Debug/net8.0/Abstractions.dll
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/obj/Debug/net8.0/refint/Abstractions.dll
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/obj/Debug/net8.0/Abstractions.pdb
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/obj/Debug/net8.0/Abstractions.genruntimeconfig.cache
+/Users/nicat/Desktop/SamirTasks/Abstractions/Abstractions/obj/Debug/net8.0/ref/Abstractions.dll

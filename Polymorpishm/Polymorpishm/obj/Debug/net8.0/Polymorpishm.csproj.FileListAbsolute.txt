@@ -1,0 +1,15 @@
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/bin/Debug/net8.0/Polymorpishm
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/bin/Debug/net8.0/Polymorpishm.deps.json
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/bin/Debug/net8.0/Polymorpishm.runtimeconfig.json
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/bin/Debug/net8.0/Polymorpishm.dll
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/bin/Debug/net8.0/Polymorpishm.pdb
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/obj/Debug/net8.0/Polymorpishm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/obj/Debug/net8.0/Polymorpishm.AssemblyInfoInputs.cache
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/obj/Debug/net8.0/Polymorpishm.AssemblyInfo.cs
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/obj/Debug/net8.0/Polymorpishm.csproj.CoreCompileInputs.cache
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/obj/Debug/net8.0/Polymorpishm.sourcelink.json
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/obj/Debug/net8.0/Polymorpishm.dll
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/obj/Debug/net8.0/refint/Polymorpishm.dll
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/obj/Debug/net8.0/Polymorpishm.pdb
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/obj/Debug/net8.0/Polymorpishm.genruntimeconfig.cache
+/Users/nicat/Desktop/SamirTasks/Polymorpishm/Polymorpishm/obj/Debug/net8.0/ref/Polymorpishm.dll

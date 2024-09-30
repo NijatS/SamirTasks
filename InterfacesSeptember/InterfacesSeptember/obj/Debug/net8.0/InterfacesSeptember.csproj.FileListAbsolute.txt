@@ -1,0 +1,15 @@
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/bin/Debug/net8.0/InterfacesSeptember
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/bin/Debug/net8.0/InterfacesSeptember.deps.json
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/bin/Debug/net8.0/InterfacesSeptember.runtimeconfig.json
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/bin/Debug/net8.0/InterfacesSeptember.dll
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/bin/Debug/net8.0/InterfacesSeptember.pdb
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/obj/Debug/net8.0/InterfacesSeptember.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/obj/Debug/net8.0/InterfacesSeptember.AssemblyInfoInputs.cache
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/obj/Debug/net8.0/InterfacesSeptember.AssemblyInfo.cs
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/obj/Debug/net8.0/InterfacesSeptember.csproj.CoreCompileInputs.cache
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/obj/Debug/net8.0/InterfacesSeptember.sourcelink.json
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/obj/Debug/net8.0/InterfacesSeptember.dll
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/obj/Debug/net8.0/refint/InterfacesSeptember.dll
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/obj/Debug/net8.0/InterfacesSeptember.pdb
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/obj/Debug/net8.0/InterfacesSeptember.genruntimeconfig.cache
+/Users/nicat/Desktop/SamirTasks/InterfacesSeptember/InterfacesSeptember/obj/Debug/net8.0/ref/InterfacesSeptember.dll

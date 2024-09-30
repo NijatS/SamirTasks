@@ -1,0 +1,15 @@
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/bin/Debug/net8.0/EnumLessons
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/bin/Debug/net8.0/EnumLessons.deps.json
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/bin/Debug/net8.0/EnumLessons.runtimeconfig.json
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/bin/Debug/net8.0/EnumLessons.dll
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/bin/Debug/net8.0/EnumLessons.pdb
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/obj/Debug/net8.0/EnumLessons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/obj/Debug/net8.0/EnumLessons.AssemblyInfoInputs.cache
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/obj/Debug/net8.0/EnumLessons.AssemblyInfo.cs
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/obj/Debug/net8.0/EnumLessons.csproj.CoreCompileInputs.cache
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/obj/Debug/net8.0/EnumLessons.sourcelink.json
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/obj/Debug/net8.0/EnumLessons.dll
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/obj/Debug/net8.0/refint/EnumLessons.dll
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/obj/Debug/net8.0/EnumLessons.pdb
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/obj/Debug/net8.0/EnumLessons.genruntimeconfig.cache
+/Users/nicat/Desktop/SamirTasks/EnumLessons/EnumLessons/obj/Debug/net8.0/ref/EnumLessons.dll

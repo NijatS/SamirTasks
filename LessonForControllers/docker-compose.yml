@@ -1,0 +1,6 @@
+﻿services:
+  lessonforcontrollers:
+    image: lessonforcontrollers
+    build:
+      context: .
+      dockerfile: LessonForControllers/Dockerfile

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac64e97b4cdf8c064e3dd23fd98cd2336689f83c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b466d37dd28e57399126f48cd5eafa50b4205c63")]
 [assembly: System.Reflection.AssemblyProductAttribute("SMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

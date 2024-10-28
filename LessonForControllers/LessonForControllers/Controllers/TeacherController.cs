@@ -1,8 +1,8 @@
-
 using AutoMapper;
 using LessonForControllers.Context;
 using LessonForControllers.Dtos;
 using LessonForControllers.Models;
+using LessonForControllers.Repository;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LessonForControllers.Controllers;
@@ -11,13 +11,13 @@ namespace LessonForControllers.Controllers;
 [Route("[controller]")]
 public class TeacherController : ControllerBase
 {
-    private readonly LessonDbContext _context;
     private readonly IMapper _mapper;
+    private readonly IGenericRepository<Teacher> _repository;
 
-    public TeacherController(LessonDbContext context, IMapper mapper)
+    public TeacherController(IMapper mapper, IGenericRepository<Teacher> repository)
     {
-        _context = context;
         _mapper = mapper;
+        _repository = repository;
     }
 
     [HttpPost]//elave edecek
@@ -29,15 +29,17 @@ public class TeacherController : ControllerBase
         // teacher.Salary = dto.Salary;
         var teacher = _mapper.Map<Teacher>(dto);
         
-        _context.Teachers.Add(teacher);
-        _context.SaveChanges();
+        // _context.Teachers.Add(teacher);
+        // _context.SaveChanges();
+        _repository.Add(teacher);
         return Ok();
     }
 
     [HttpGet]
     public IActionResult GetAll()
     {
-        var teachers = _context.Teachers.ToList();
+        // var teachers = _context.Teachers.ToList();
+        var teachers =  _repository.GetAll();
 
         // List<TeacherGetDto> result = new List<TeacherGetDto>();
         // foreach (var teacher in teachers)
@@ -57,7 +59,8 @@ public class TeacherController : ControllerBase
     [HttpGet("{id}")]
     public IActionResult Get(int id)
     {
-        var teacher = _context.Teachers.Find(id);
+        // var teacher = _context.Teachers.Find(id);
+        var teacher = _repository.Get(id);
         
         // var dto = new TeacherGetDto();
         // dto.Name = teacher.Name;
@@ -72,7 +75,8 @@ public class TeacherController : ControllerBase
     [HttpPut("{id}")]
     public IActionResult Update(int id, TeacherDto dto)
     {
-        var updatedTeacher = _context.Teachers.Find(id);
+        // var updatedTeacher = _context.Teachers.Find(id);
+        var updatedTeacher = _repository.Get(id);
         
         if(updatedTeacher == null)
             return NotFound();
@@ -82,8 +86,10 @@ public class TeacherController : ControllerBase
         // updatedTeacher.Salary = dto.Salary;
         _mapper.Map(dto, updatedTeacher);
         
-        _context.Teachers.Update(updatedTeacher);
-        _context.SaveChanges();
+        // _context.Teachers.Update(updatedTeacher);
+        // _context.SaveChanges();
+        
+        _repository.Update(updatedTeacher);
         
         return Ok(updatedTeacher);
     }
@@ -91,9 +97,12 @@ public class TeacherController : ControllerBase
     [HttpDelete("{id}")]
     public IActionResult Delete(int id)
     {
-        var teacher = _context.Teachers.Find(id);
-        _context.Teachers.Remove(teacher);
-        _context.SaveChanges();
+        // var teacher = _context.Teachers.Find(id);
+        var teacher = _repository.Get(id);
+
+        // _context.Teachers.Remove(teacher);
+        // _context.SaveChanges();
+        _repository.Delete(teacher);
         return Ok();
     }
     

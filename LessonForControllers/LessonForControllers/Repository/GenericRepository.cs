@@ -1,5 +1,6 @@
 using LessonForControllers.Context;
 using LessonForControllers.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace LessonForControllers.Repository;
 
@@ -15,31 +16,31 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseModel
     //_context.Teachers = Set<T>()
     //Teacher ve ya Student = T
     //List<Teacher> ve ya List<Student> = List<T>
-    public void Add(T entity)
+    public async Task AddAsync(T entity)
     {
-        _context.Set<T>().Add(entity);
-        _context.SaveChanges();
+        await _context.Set<T>().AddAsync(entity);
+        await _context.SaveChangesAsync();
     }
 
-    public List<T> GetAll()
+    public async Task<List<T>> GetAllAsync()
     {
-        return _context.Set<T>().ToList();
+        return await _context.Set<T>().ToListAsync();
     }
 
-    public T Get(int id)
+    public async Task<T> GetAsync(int id)
     {
-        return _context.Set<T>().Find(id);
+        return await _context.Set<T>().FindAsync(id);
     }
 
-    public void Update(T entity)
+    public async Task UpdateAsync(T entity)
     {
         _context.Set<T>().Update(entity);
-        _context.SaveChanges();
+        await _context.SaveChangesAsync();
     }
 
-    public void Delete(T entity)
+    public async Task DeleteAsync(T entity)
     {
         _context.Set<T>().Remove(entity);
-        _context.SaveChanges();
+        await _context.SaveChangesAsync();
     }
 }

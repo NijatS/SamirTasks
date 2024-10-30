@@ -21,7 +21,7 @@ public class TeacherController : ControllerBase
     }
 
     [HttpPost]//elave edecek
-    public IActionResult Add(TeacherDto dto)
+    public async Task<IActionResult> Add(TeacherDto dto)
     {
         // Teacher teacher = new Teacher();
         // teacher.Name = dto.Name;
@@ -31,15 +31,15 @@ public class TeacherController : ControllerBase
         
         // _context.Teachers.Add(teacher);
         // _context.SaveChanges();
-        _repository.Add(teacher);
+        await _repository.AddAsync(teacher);
         return Ok();
     }
 
     [HttpGet]
-    public IActionResult GetAll()
+    public async Task<IActionResult> GetAll()
     {
         // var teachers = _context.Teachers.ToList();
-        var teachers =  _repository.GetAll();
+        var teachers = await _repository.GetAllAsync();
 
         // List<TeacherGetDto> result = new List<TeacherGetDto>();
         // foreach (var teacher in teachers)
@@ -57,10 +57,10 @@ public class TeacherController : ControllerBase
     }
 
     [HttpGet("{id}")]
-    public IActionResult Get(int id)
+    public async Task<IActionResult> Get(int id)
     {
         // var teacher = _context.Teachers.Find(id);
-        var teacher = _repository.Get(id);
+        var teacher = await _repository.GetAsync(id);
         
         // var dto = new TeacherGetDto();
         // dto.Name = teacher.Name;
@@ -73,10 +73,10 @@ public class TeacherController : ControllerBase
     }
 
     [HttpPut("{id}")]
-    public IActionResult Update(int id, TeacherDto dto)
+    public async Task<IActionResult>Update(int id, TeacherDto dto)
     {
         // var updatedTeacher = _context.Teachers.Find(id);
-        var updatedTeacher = _repository.Get(id);
+        var updatedTeacher = await _repository.GetAsync(id);
         
         if(updatedTeacher == null)
             return NotFound();
@@ -89,20 +89,20 @@ public class TeacherController : ControllerBase
         // _context.Teachers.Update(updatedTeacher);
         // _context.SaveChanges();
         
-        _repository.Update(updatedTeacher);
+        await _repository.UpdateAsync(updatedTeacher);
         
         return Ok(updatedTeacher);
     }
 
     [HttpDelete("{id}")]
-    public IActionResult Delete(int id)
+    public async Task<IActionResult> Delete(int id)
     {
         // var teacher = _context.Teachers.Find(id);
-        var teacher = _repository.Get(id);
+        var teacher = await _repository.GetAsync(id);
 
         // _context.Teachers.Remove(teacher);
         // _context.SaveChanges();
-        _repository.Delete(teacher);
+        await _repository.DeleteAsync(teacher);
         return Ok();
     }
     

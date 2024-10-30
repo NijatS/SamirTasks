@@ -4,9 +4,9 @@ namespace LessonForControllers.Repository;
 
 public interface IGenericRepository<T> where T : BaseModel
 {
-    void Add(T entity);
-    List<T> GetAll();
-    T Get(int id);
-    void Update(T entity);
-    void Delete(T entity);
+    public Task AddAsync(T entity);
+    public Task<List<T>> GetAllAsync();
+    public Task<T> GetAsync(int id);
+    public Task UpdateAsync(T entity);
+    public Task DeleteAsync(T entity);
 }
